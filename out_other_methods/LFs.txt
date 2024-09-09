@@ -1,0 +1,4 @@
+"Sig_LFs"	"Interacting_LFs"
+"/ocean/projects/cis240075p/skeshari/igvf/bcell2/primaryBCell/out_data/out_other_methods/SLIDE_spec025/gene_list_Z1.txt"	"/ocean/projects/cis240075p/skeshari/igvf/bcell2/primaryBCell/out_data/out_other_methods/SLIDE_spec025/gene_list_Z2.txt"
+"/ocean/projects/cis240075p/skeshari/igvf/bcell2/primaryBCell/out_data/out_other_methods/SLIDE_spec025/gene_list_Z16.txt"	"/ocean/projects/cis240075p/skeshari/igvf/bcell2/primaryBCell/out_data/out_other_methods/SLIDE_spec025/gene_list_Z7.txt"
+"/ocean/projects/cis240075p/skeshari/igvf/bcell2/primaryBCell/out_data/out_other_methods/SLIDE_spec025/gene_list_Z22.txt"	NA
